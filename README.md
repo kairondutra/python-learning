@@ -1,42 +1,46 @@
-# Python Learning
+# 🚀 Python Learning
 
-Este repositório é dedicado ao meu aprendizado de Python. Estou utilizando a IA **Qwen**, criada pela Alibaba Cloud, como uma ferramenta auxiliar para me guiar nessa jornada. A IA me ajuda com:
+Este repositório é dedicado ao meu aprendizado de Python. Estou utilizando inteligência artificial e outras ferramentas para me guiar nessa jornada. Elas me ajudam com:
 
-- Explicações claras sobre conceitos de programação;
-- Sugestões de exercícios práticos;
-- Feedback detalhado sobre os códigos que escrevo.
+✅ Explicações claras sobre conceitos de programação;
+✅ Sugestões de exercícios práticos;
+✅ Feedback detalhado sobre os códigos que escrevo.
 
 Se você encontrar algum erro ou quiser contribuir com sugestões, feedback ou novos exercícios, fique à vontade para abrir uma issue ou enviar um pull request! Toda ajuda é bem-vinda para melhorar este espaço de aprendizado.
 
-### Estrutura do Repositório
+### 📂 Estrutura do Repositório
 
 O repositório está organizado em várias pastas, cada uma com um propósito específico:
 
 ```
 python-learning/
-├── README.md <- Descrição geral do repositório
-├── aulas/ <- Aulas organizadas por tópicos
-├── exercicios/ <- Exercícios práticos
-│ ├── basico/
-│ ├── intermediario/
-│ ├── avancado/
-├── projetos/ <- Projetos completos
-├── algoritmos/ <- Implementações de algoritmos clássicos
-├── ferramentas/ <- Ferramentas e utilitários
-├── notebooks/ <- Notebooks Jupyter
-├── .github/
-│ └── ISSUE_TEMPLATE/
-│ └── feedback_template.md <- Modelo de issue para feedback
+├── 📜 README.md          <- Descrição geral do repositório
+├── 📁 src/               <- Código-fonte organizado
+│   ├── 📂 aulas/         <- Aulas organizadas por tópicos, com exercícios inclusos
+│   └── 📂 projetos/      <- Projetos completos
+├── 📒 notebooks/         <- Notebooks Jupyter
+├── 📝 LICENSE            <- Licença do repositório
+├── 📌 Plano_de_aulas.md  <- Planejamento das aulas
+├── ⚙️ .gitignore         <- Lista de arquivos a serem ignorados pelo Git
 ```
 
-### Como Funciona
+## 🔹 Como Funciona
 
-1. Eu faço perguntas ou peço exercícios para a IA.
-2. Implemento as soluções aqui no repositório.
-3. Compartilho o progresso e busco feedback da comunidade.
+Neste repositório, registro minha evolução em Python por meio de aulas e exercícios práticos.
+Cada aprendizado é implementado e revisado conforme meu progresso nos estudos.
 
-Espero que este repositório também possa ajudar outras pessoas que estão começando com Python! 😊
+📌 Processo de estudo:
+1️⃣ Exploro conceitos e resolvo desafios práticos.
+2️⃣ Implemento e organizo as soluções neste repositório.
+3️⃣ Analiso os resultados e busco melhorias contínuas.
+
+## 🛠 Pré-requisitos
+
+Para executar os códigos deste repositório, é recomendável ter:
+🐍 **Python 3.x** instalado [(Download)](https://www.python.org/downloads/)
+🛠️ Um ambiente de desenvolvimento, como **VS Code** ou **PyCharm**
+📒 (Opcional) Jupyter Notebook para visualizar os arquivos `.ipynb`
 
 ---
 
-**Nota**: Este repositório é um trabalho em andamento. Estou constantemente aprendendo e melhorando minhas habilidades.
+⚡ **Nota**: Este repositório é um trabalho em andamento. Estou constantemente aprendendo e melhorando minhas habilidades. Qualquer sugestão é bem-vinda! 😊
