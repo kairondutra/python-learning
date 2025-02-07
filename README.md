@@ -21,7 +21,6 @@ python-learning/
 │   └── 📂 projetos/      <- Projetos completos
 ├── 📒 notebooks/         <- Notebooks Jupyter
 ├── 📝 LICENSE            <- Licença do repositório
-├── 📌 Plano_de_aulas.md  <- Planejamento das aulas
 ├── ⚙️ .gitignore         <- Lista de arquivos a serem ignorados pelo Git
 ```
 
