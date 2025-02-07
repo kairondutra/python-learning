@@ -17,6 +17,7 @@ python-learning/
 ├── 📜 README.md          <- Descrição geral do repositório
 ├── 📁 src/               <- Código-fonte organizado
 │   ├── 📂 aulas/         <- Aulas organizadas por tópicos, com exercícios inclusos
+│   ├── 📂 docs/          <- Documentação e anotações detalhadas
 │   └── 📂 projetos/      <- Projetos completos
 ├── 📒 notebooks/         <- Notebooks Jupyter
 ├── 📝 LICENSE            <- Licença do repositório
