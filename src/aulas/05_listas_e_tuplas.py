@@ -34,12 +34,12 @@ print(f"{lista}")
 
 # Exercícios Extras
 
-# Crie uma lista com 5 números inteiros e exiba o terceiro número da lista.
+# 4. Crie uma lista com 5 números inteiros e exiba o terceiro número da lista.
 
 lista = [1,2,3,4,5,6]
 print(lista[2])
 
-# Escreva um programa que peça ao usuário para digitar 3 frutas e as adicione a uma lista. Em seguida, exiba a lista completa.
+# 5. Escreva um programa que peça ao usuário para digitar 3 frutas e as adicione a uma lista. Em seguida, exiba a lista completa.
 
 frutas = []
 for f in range(3):
@@ -48,7 +48,7 @@ for f in range(3):
     print(f"a fruta '{fruta}' foi adicionada!")
 print(f"Lista de Frutas: {frutas}")
 
-# Faça um programa que remova o último elemento de uma lista e exiba a lista atualizada.
+# 6. Faça um programa que remova o último elemento de uma lista e exiba a lista atualizada.
 
 lista = ["Brasil", "Argentina", "Bruxelas", "Espanha", "Canada", "Chile", "India"]
 print(f"Lista original: {lista} ")
@@ -56,7 +56,7 @@ print(f"Lista original: {lista} ")
 lista.pop()
 print(f"Lista sem o último elemento: {lista}")
 
-# Ordene uma lista de números fornecida pelo usuário em ordem crescente e exiba o resultado.
+# 7. Ordene uma lista de números fornecida pelo usuário em ordem crescente e exiba o resultado.
 
 lista_desordenada = []
 
@@ -73,16 +73,13 @@ print("\nResultados:")
 print(f"Lista desordenada: {lista_desordenada}")
 print(f"Lista ordenada: {lista_ordenada}")
 
-
-
-# Exercícios sobre Tuplas:
-# Crie uma tupla com 4 números inteiros e exiba o segundo número.
+# 8. Crie uma tupla com 4 números inteiros e exiba o segundo número.
 
 tupla = (1,2,3,4)
 print(f"Tupla: {tupla}")
 print(f"Segundo elemento: {tupla[1]}")
 
-# Escreva um programa que conte quantas vezes o número 5 aparece em uma tupla fornecida pelo usuário.
+# 9. Escreva um programa que conte quantas vezes o número 5 aparece em uma tupla fornecida pelo usuário.
 
 numeros=[]
 
@@ -103,15 +100,14 @@ quantidade_5 = tupla_numeros.count(5)
 print(f"Tupla criada: {tupla_numeros}")
 print(f"O número 5 apareceu {quantidade_5} vezes.")
 
-# Faça um programa que encontre o índice do valor "azul" 
-# em uma tupla de cores ("vermelho", "verde", "azul").
+# 10. Faça um programa que encontre o índice do valor "azul" em uma tupla de cores ("vermelho", "verde", "azul").
 
 cores = ("vermelho", "verde", "azul")
 
 indice_azul = cores.index("azull")
 print(f"A cor 'azul' está no índice {indice_azul}.")
 
-# Explique, em suas palavras, a principal diferença entre listas e tuplas.
+# 11. Explique, em suas palavras, a principal diferença entre listas e tuplas.
 
 '''
 A principal diferença entre listas e tuplas no Python está na mutabilidade. 

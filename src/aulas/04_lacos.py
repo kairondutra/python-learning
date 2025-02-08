@@ -28,8 +28,6 @@ print(f"O fatorial de {numero} é igual a: {resultado}")
 for n in range(10,-1,-1):
     print(n ,end=" ")
 
-# Exercícios Adicionais
-
 # 4. Escreva um programa que imprima todos os números ímpares de 1 a 30.
 
 print("Números ímpares de 1 a 30:")
@@ -90,6 +88,7 @@ else:
 
 
 # 11. Crie um programa que simule um cronômetro de segundos, contando de 1 a 60.
+
 import time
 
 for sec in range(1, 61):
