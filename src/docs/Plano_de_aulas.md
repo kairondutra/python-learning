@@ -133,9 +133,19 @@
 - Tratamento de exceções com `try` e `except`.
 
 **Exercícios:**
+
 1. Escreva um programa que leia um arquivo de texto e imprima seu conteúdo.
 2. Crie um programa que grave uma lista de nomes em um arquivo.
 3. Faça um programa que conte o número de linhas de um arquivo.
+4. Faça um programa que leia um arquivo linha por linha e exiba cada linha numerada.
+5. Escreva um programa que copie o conteúdo de um arquivo para outro arquivo.  
+6. Crie um programa que concatene o conteúdo de dois arquivos em um terceiro arquivo.  
+7. Faça um programa que leia um arquivo e conte o número de palavras no texto.  
+8. Escreva um programa que substitua todas as ocorrências de uma palavra específica em um arquivo por outra palavra.  
+9. Crie um programa que leia um arquivo CSV (valores separados por vírgula) e exiba seus dados em formato tabular.  
+10. Faça um programa que salve um dicionário em um arquivo JSON e depois leia o arquivo para recuperar o dicionário.  
+11. Escreva um programa que leia um arquivo binário (como uma imagem) e exiba seu tamanho em bytes.
+
 
 ## Aula 9: Programação Orientada a Objetos (POO)
 **Objetivo:** Introduzir os conceitos de POO e aplicá-los em Python.
